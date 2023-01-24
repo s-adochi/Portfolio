@@ -12,7 +12,7 @@ HTML
 CSS
 JavaScript (if you have any)
 Author
-[Silvanus Adochi]
+Silvanus Adochi
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
